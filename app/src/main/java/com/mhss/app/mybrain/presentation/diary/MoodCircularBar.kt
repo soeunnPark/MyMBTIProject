@@ -65,7 +65,7 @@ fun MoodCircularBar(
                 }
             }
             Text(
-                text = stringResource(R.string.mood_summary),
+                text = stringResource(R.string.mbti_summary),
                 style = MaterialTheme.typography.h6.copy(fontWeight = FontWeight.Bold),
                 modifier = Modifier
                     .fillMaxWidth()
@@ -124,7 +124,7 @@ fun MoodCircularBar(
                 }
                 Text(
                     text = buildAnnotatedString {
-                        append(stringResource(R.string.your_mood_was))
+                        append(stringResource(R.string.your_mbti_was))
                         withStyle(
                             SpanStyle(
                                 fontWeight = FontWeight.Bold,

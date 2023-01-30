@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Brain</string>
+    <string name="app_name">MbtiDiary</string>
 
     <string name="reminders_channel_description">Notification channel for sending tasks reminders notification</string>
     <string name="reminders_channel_name">Reminders</string>
@@ -17,11 +17,11 @@
     <string name="project_on_github">Project on GitHub</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="product">Product</string>
-    <string name="notes">Notes</string>
-    <string name="tasks">Tasks</string>
-    <string name="diary">Diary</string>
-    <string name="bookmarks">Bookmarks</string>
-    <string name="calendar">Calendar</string>
+    <string name="notes">ESTP</string>
+    <string name="tasks">ISTJ</string>
+    <string name="diary">TodayMBTI</string>
+    <string name="bookmarks">ENFP</string>
+    <string name="calendar">INTJ</string>
     <string name="add_task">Add task</string>
     <string name="add_task_to_my_brain">Add task to My Brain</string>
     <string name="search">Search</string>
@@ -70,27 +70,32 @@
     <string name="view_as">View as</string>
     <string name="search_notes">Search by title or content</string>
     <string name="add_note">Add note</string>
-    <string name="save_bookmark">Bookmark link</string>
+    <string name="save_bookmark">Link</string>
     <string name="add_to_tasks">Add to tasks</string>
-    <string name="bookmark_saved">Bookmark saved successfully</string>
+    <string name="bookmark_saved">Diary saved successfully</string>
     <string name="invalid_url">Invalid URL</string>
-    <string name="add_bookmark">Add bookmark</string>
+    <string name="add_bookmark">Add Diary</string>
     <string name="open_link">Open link</string>
-    <string name="search_bookmarks">Search bookmarks</string>
-    <string name="delete_bookmark">Delete bookmark</string>
+    <string name="search_bookmarks">Search Diary</string>
+    <string name="delete_bookmark">Delete Diary</string>
     <string name="url">URL</string>
     <string name="cancel_changes">Cancel changes</string>
     <string name="add_entry">Add entry</string>
-    <string name="awesome">Awesome</string>
-    <string name="good">Good</string>
-    <string name="okay">Okay</string>
-    <string name="bad">Bad</string>
+    <string name="awesome">ESTP</string>
+    <string name="good">INTJ</string>
+    <string name="okay">ESFJ</string>
+    <string name="bad">INFP</string>
+    <string name="ESTP" translatable="false">ESTP</string>
+    <string name="INTJ" translatable="false">INTJ</string>
+    <string name="ESFJ" translatable="false">ESFJ</string>
+    <string name="INFP" translatable="false">INFP</string>
+    <string name="ENFP" translatable="false">ENFP</string>
     <string name="terrible">Terrible</string>
     <string name="delete_entry">Delete entry</string>
     <string name="content">Content</string>
     <string name="save_entry">Save entry</string>
     <string name="search_diary">Search diary</string>
-    <string name="mood">Mood</string>
+    <string name="mood">MBTI</string>
     <string name="event_time_at">%1$s - %2$s at %3$s</string>
     <string name="event_time">%1$s - %2$s</string>
     <string name="all_day">All day</string>
@@ -102,12 +107,14 @@
     <string name="include_calendars">Include calendars :</string>
     <string name="added_task">Added to tasks</string>
     <string name="diary_chart">Diary chart</string>
-    <string name="mood_during_month">Your mood during the month</string>
-    <string name="mood_during_year">Your mood during the year</string>
+    <string name="mood_during_month">Your mbti during the month</string>
+    <string name="mood_during_year">Your mbti during the year</string>
     <string name="percent">%1$d%%</string>
-    <string name="mood_flow">Mood flow</string>
-    <string name="mood_summary">Mood summary</string>
-    <string name="your_mood_was">"Your mood was "</string>
+    <string name="mood_flow">Mbti flow</string>
+    <string name="mood_summary">Mbti summary</string>
+    <string name="mbti_summary" translatable="false">mbti_summary</string>
+    <string name="your_mood_was">"Your mbti was "</string>
+    <string name="your_mbti_was" translatable="false">"Your mbti was "</string>
     <string name="most_of_the_time">" most of the time "</string>
     <string name="last_30_days">Last 30 days</string>
     <string name="last_year">Last year</string>
